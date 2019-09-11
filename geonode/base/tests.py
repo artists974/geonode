@@ -21,7 +21,7 @@
 from django.test import TestCase
 from geonode.base.models import ResourceBase
 
-
+# testtttttt update 
 class ThumbnailTests(TestCase):
 
     def setUp(self):
